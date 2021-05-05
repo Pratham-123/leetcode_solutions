@@ -32,6 +32,6 @@ class Solution {
         right++;
         }
         
-        return right-left -1;
+        return right-left -1   ;
     }
 }
